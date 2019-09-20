@@ -1,0 +1,2 @@
+DROP TRIGGER IF EXISTS Dadiva_Publicacao;
+DROP TRIGGER IF EXISTS Dadiva_Emprestimo;
